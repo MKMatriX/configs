@@ -1,0 +1,7 @@
+[
+	{
+		"caption": "My pretify",
+		"command": "reg_replace",
+		"args": {"replacements": ["MatriX_text_pretify"]}
+	},
+]
